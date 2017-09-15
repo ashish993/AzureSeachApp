@@ -1,12 +1,12 @@
 var config = {};
 
-config.apiKey = "";
+config.apiKey = "04F5338965A8029CD2D3D65A7016609B";
 
 // can technically use api key here as well
 // since this is shipped to the browser using a read only query key is safer
-config.queryKey = "";
+config.queryKey = "550B55581975D2434692AE9509DAD68D";
 
-config.serviceURL = "https://yourServiceHere.search.windows.net";
+config.serviceURL = "http://azureseachdemo.azurewebsites.net";
 
 config.dataSourceName = "usgs-datasource";
 
